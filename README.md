@@ -1,6 +1,6 @@
 I'm a software developer and general tinkerer.  
 
-Professionally, I usually work in Java.  Lately I've been making a lot of REST services using things like (but not limited to)...
+Professionally, I usually work in Java, often using things like these:
 
 ![Java](https://img.shields.io/badge/java-4479A1?style=flat-square&logo=java&logoColor=white) 
 ![Dropwizard](https://img.shields.io/badge/dropwizard-4479A1?style=flat-square&logo=dropwizard&logoColor=white) 
@@ -21,3 +21,5 @@ Professionally, I usually work in Java.  Lately I've been making a lot of REST s
 ![Datadog](https://img.shields.io/badge/datadog-632CA6?style=flat-square&logo=datadog&logoColor=61DAFB)
 
 I really should be adding Python and Kubernetes to the list but instead keep playing around with Unity.
+
+Sometimes I've made wee little games in Java or other tools, linked to here.
