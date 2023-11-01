@@ -1,6 +1,6 @@
 I'm a software developer and general tinkerer.  
 
-Professionally, I usually work in Java.  Lately I've been making a lot of REST services things like (but not limited to) these sorts of things:
+Professionally, I usually work in Java.  Lately I've been making a lot of REST services using things like (but not limited to)...
 
 ![Java](https://img.shields.io/badge/java-4479A1?style=flat-square&logo=java&logoColor=white) 
 ![Dropwizard](https://img.shields.io/badge/dropwizard-4479A1?style=flat-square&logo=dropwizard&logoColor=white) 
