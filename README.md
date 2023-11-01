@@ -20,4 +20,4 @@ Professionally, I usually work in Java.  Lately I've been making a lot of REST s
 ![JUnit](https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=61DAFB)
 ![Datadog](https://img.shields.io/badge/datadog-632CA6?style=flat-square&logo=datadog&logoColor=61DAFB)
 
-I really should be adding things like Python and Kubernetes to the list but instead keep playing around with Unity.
+I really should be adding Python and Kubernetes to the list but instead keep playing around with Unity.
