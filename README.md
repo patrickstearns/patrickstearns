@@ -20,6 +20,6 @@ Professionally, I usually work in Java, often using things like these:
 ![JUnit](https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=61DAFB)
 ![Datadog](https://img.shields.io/badge/datadog-632CA6?style=flat-square&logo=datadog&logoColor=61DAFB)
 
-I really should be adding Python and Kubernetes to the list but instead keep playing around with Unity.
+I really should be adding things like Python and Kubernetes to this list but instead keep playing around with C# and Unity.
 
-Sometimes I've made wee little games in Java or other tools, linked to here.
+Sometimes I've made wee little games in Java or other tools, linked to here.  I've also put up all the assets for SpinOut, the only finished game I've (publicly) released thus far.
